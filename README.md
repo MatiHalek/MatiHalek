@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm MatiHalek 👋
+😄 Interests: 
+- mathematics
+- programming
+- chess
+- Windows Vista.
+
+🌱 I'm currently learning .NET MAUI, JavaScript and PHP.\
+🔭 I’m currently working on my mobile chess app in C#.\
+⚡"Scratch is one of the best programming languages" ([check out my projects](https://scratch.mit.edu/users/matihalek/))
 
 <!--
 **MatiHalek/MatiHalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
