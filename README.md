@@ -3,7 +3,7 @@
 - mathematics
 - programming
 - chess
-- Windows Vista.
+- Windows Vista
 
 🌱 I'm currently learning .NET MAUI, JavaScript and PHP.\
 🔭 I’m currently working on my mobile chess app in C#.\
